@@ -62,10 +62,21 @@
 
 |-|Linux|Windows|
 |-|-----|-------|
-||||
+|**Price**|Free open-source OP|licensed OP(it has a cost)|
+|**Source-code accessibility**|accessible|inaccessible|
+|**Kernel**|Monolithic kernel(high space and efficiency )|micro-kernel(low space and efficiency )|
+|**File system**|Tree structure|Directories/folders structure|
+|**Security**|Multi-user architecture(more stable)|Single-user architecture(less stable)|
+|**Ease of Use**|More appealing to professional users|More appealing to casual users|
 
 3. ***GitHub*** VS ***GitLab***:
 
 |-|GitHub|GitLab|
 |-|------|------|
-||||
+|**Price**|Projects are free and publicly open to all|
+Repositories are only open to the team of collaborators|
+|**Integration**|Provided by third-parties|Provides built-in integration|
+|**Authentication**|Roles authenticat what can and can't be accessed|Developers have the authority to allow access or not allow it|
+|**Platform**|Provides developers with a platform to store, manage and track projects|Provides web-based DevOps internal management of repositories|
+|**Inner-sourcing**|Allowed|Not allowed|
+
