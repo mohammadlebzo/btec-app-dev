@@ -73,8 +73,8 @@
 
 |-|GitHub|GitLab|
 |-|------|------|
-|**Price**|Projects are free and publicly open to all|
-Repositories are only open to the team of collaborators|
+|**Price**|Projects are free and publicly open to all|Repositories are only open to the team of collaborators|
+
 |**Integration**|Provided by third-parties|Provides built-in integration|
 |**Authentication**|Roles authenticat what can and can't be accessed|Developers have the authority to allow access or not allow it|
 |**Platform**|Provides developers with a platform to store, manage and track projects|Provides web-based DevOps internal management of repositories|
