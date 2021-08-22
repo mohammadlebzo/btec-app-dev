@@ -46,4 +46,26 @@
     - Have a **local version** on my machine and another version on the **cloud** so that i don't lose any progress or work by accident.
 
     - Have a place to work with my team effectively.
-    - Be able to *manage* and *contol* what's **added**, **modified** or **deleted** from the project
+    - Be able to *manage* and *contol* what's **added**, **modified** or **deleted** from the project.
+
+### Tools Comparison: 
+1. ***Visual Studio Code(vs code)*** VS ***PyCharm***: 
+
+|-|**Visual Studio Code**|**PyCharm**|
+|-|------------------|-------|
+|**Performance**|Keeps low memory consumption, increase memory consumption only when there are multiple tasks|Runs in full power which consumes a lot of memory|
+|**Price**|Vs code is an open source software, meaning its cost free|PyCharm costs around $200 for the premium version,there is a free one but it lakes some functionalities|
+|**Search**|Strong|average|
+|**Code dependency management**|weak|Strong|
+
+2. ***Linux*** VS ***Windows***:
+
+|-|Linux|Windows|
+|-|-----|-------|
+||||
+
+3. ***GitHub*** VS ***GitLab***:
+
+|-|GitHub|GitLab|
+|-|------|------|
+||||
