@@ -1,7 +1,7 @@
 # Project-Tools
 ## Stage 1, Task 2
 
-1.	
+### Task 2.1	
 - ***Visual Studio Code(vs code)***: **vs code** is an *IDE* used to develop programs using varies programming languages, it offers many powerful tools, such as **IntelliSense code completion** and **debugging**, it is also has a great range of accessibility as it is available on *Windows*, *macOS* and *Linux*, and last but not least it can provides integration with *version control systems* such as git.
 
 - ***PyCharm***: it is an *IDE* developed by **JetBrains**, used to develop programs using varies programming languages but it’s specifically used for **python**, as it offers a **graphical debugger, code analysis**, integration with *version control systems* and **support for web development**, it is also available on *Windows*, *macOS* and *Linux* which allows developers to keep working cross-platforms, removing accessibility barriers.
@@ -21,7 +21,8 @@
 - ***GitHub*** as a *version control system*.
 
 
-2. I will be explaining now why i chose these tools: 
+### Task 2.2
+I will be explaining now why i chose these tools: 
 
 - ***Visual Studio Code(vs code)***: i have chose this *IDE* because of: also because of its excellent speed and preformance.
     - The *wide variety of tools* that this *IDE* offers, such as the **git integration** and **live web service** to name a few.
@@ -60,7 +61,7 @@
 
 2. ***Linux*** VS ***Windows***:
 
-|-|Linux|Windows|
+|-|**Linux**|**Windows**|
 |-|-----|-------|
 |**Price**|Free open-source OP|licensed OP(it has a cost)|
 |**Source-code accessibility**|accessible|inaccessible|
@@ -71,7 +72,7 @@
 
 3. ***GitHub*** VS ***GitLab***:
 
-|-|GitHub|GitLab|
+|-|**GitHub**|**GitLab**|
 |-|------|------|
 |**Price**|Projects are free and publicly open to all|Repositories are only open to the team of collaborators|
 |**Integration**|Provided by third-parties|Provides built-in integration|
@@ -79,3 +80,25 @@
 |**Platform**|Provides developers with a platform to store, manage and track projects|Provides web-based DevOps internal management of repositories|
 |**Inner-sourcing**|Allowed|Not allowed|
 
+### Task 2.3
+How *each* of these **tools** help me to *solve* a **business problem**:
+
+1. ***Visual Studio Code(vs code)***: by useing this **tool** i will be able to:
+    - *Writing and testing the code for the system*.
+    - *Have a great code optimization*
+    - *Manage and debug my code*.
+    - *Push my work into GitHub using git*.
+    - *Save time by having the IDE control and optimize my code*
+    - *Saves me costs as it is an open source IDE with all the functionalities i need.*
+
+2. ***Linux***: by useing this **tool** i will be able to:
+    - *Pull and push from and to GitHub using git*.
+    - *Manage repositories and keep everything organized*.
+    - *Save time by having the OP contol and optimize my repositories*.
+    - *Keeps me save from all malwares and viruses that might heart my hardware.*
+    - *Saves me costs as it is an open source OP with all the functionalities and security i need.*
+
+3. ***GitHub***: by useing this **tool** i will be able to:
+    - *Add, delete, manage my work in repositories.*
+    - *Keep my work save in the cloud from any software or hardware failure.*
+    - Have a history of the entire process of making my project.

@@ -8,3 +8,5 @@ FileName: Project_Tools.md
 
 ## System-Requirments
 FileName: system-requirments.md
+
+- Software testing types: [https://www.softwaretestinghelp.com/types-of-software-testing/](https://www.softwaretestinghelp.com/types-of-software-testing/)
