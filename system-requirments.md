@@ -56,6 +56,12 @@ Any *starting project* in the world will always be **associated** with **risks**
     **The wireframe is in the wireframe file that is in the repository**.
 
 3. **The Activity diagram is in the file that is in the repository**.
+    Users will first access the home page, then they will be asked to sign in or creat an account, after they do that they can:
+    - Search for any item to access the review page of that item to be able to comment, view other comments or watch the trailer.
+    - See all the items by category, choose any of them to access the the review page of that item to be able to comment, view other comments or watch the trailer.
+    - Save any of the items and have it in the saved reviews page to access them at a later point.
+    - Send feedback by going to the feedback page and filling the form.
+    
 4. **The coding and implementation technique is agile**.
 5. ***Used Testing technique***:
     - **Acceptance Testing**: it is the test made by the client(s), where the client(s) gives their opinion and if they accept the product/system or not.
