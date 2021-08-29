@@ -2,17 +2,17 @@
 ## Stage 1, task 1
 
 ### Task 1.1:
-**Problem definition statement**: nowadays there are many simular products that are competing to get the customer's money, but these products differ in quality, because of that the client asked for a web application where users can review products, to highlight their pros and cons, and judge their quality, so that customers can refer to before buying the product.
+**Problem definition statement**: nowadays there are many similar products that are competing to get the customer's money, but these products differ in quality, because of that the client asked for a web application where users can review products, to highlight their pros and cons, and judge their quality, so that customers can refer to before buying the product.
 
 The **client** asked for a **web application** that is a review site that contains many **different categories**, and they asked for the ***following requirments*** to be in the site:
 
  1. **Registration System**.
- 2. **Categories** of, **games**, **movies** and **anime**, and the **ability to add more** placed horizontally.
+ 2. **Categories** of **games**, **movies** and **anime**, and the **ability to add more** placed horizontally.
  3. ***Save for later*** system, to save and remove reviews.
  4. **Commenting** system for the users.
  5. **Feedback** form to data collection.
  6. **Search functionality**.
- 7. **interesting colorful design** that is **appealing** to look at.
+ 7. **Interesting colorful design** that is **appealing** to look at.
 
 ### Task 1.2
 Any *starting project* in the world will always be **associated** with **risks**, as for this project there were actually many **risks associated with it** such as:
@@ -32,6 +32,7 @@ Any *starting project* in the world will always be **associated** with **risks**
     - The *user* **must** be able to ***create an account***, or ***sign in to their account*** on the site.
     - The **categories** should be, **games**, **movies** and **anime**, with the **ability to add more** later down the line.
     - The site must provide the *users* with a ***save button***, so that *users* can **save** the reviews that they want to read leater or if they liked the review.
+    - In the home page the user should be able to ***slide left or right*** to see all the items of a specific **category**.
     - The *users* should be able to **remove** reviews from their **saved reviews tab**.
     - The *users* should be **notified** if they **tried to save an already saved review**. 
     - The *users* should be able to **view all comments** on the **reviews pages**.
