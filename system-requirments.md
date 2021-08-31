@@ -71,3 +71,5 @@ Any *starting project* in the world will always be **associated** with **risks**
     - **Unit Testing**: it is the kind of testing where each function is tested to see if it's working as intended.
     - **Usability Testing**: it is the kind of testing where we test if the systen is user friendly or not.
 
+**Resources**:
+- Software testing types: [https://www.softwaretestinghelp.com/types-of-software-testing/](https://www.softwaretestinghelp.com/types-of-software-testing/)

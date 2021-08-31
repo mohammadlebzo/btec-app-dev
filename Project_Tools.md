@@ -102,3 +102,7 @@ How *each* of these **tools** help me to *solve* a **business problem**:
     - *Add, delete, manage my work in repositories.*
     - *Keep my work save in the cloud from any software or hardware failure.*
     - Have a history of the entire process of making my project.
+
+**Resources**:
+- linux vs windows: [https://www.edureka.co/blog/linux-vs-windows/](https://www.edureka.co/blog/linux-vs-windows/)
+- github vs gitlab: [https://www.upgrad.com/blog/github-vs-gitlab-difference-between-github-and-gitlab/](https://www.upgrad.com/blog/github-vs-gitlab-difference-between-github-and-gitlab/)
